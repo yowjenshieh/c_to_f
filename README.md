@@ -1,1 +1,1 @@
-# This is a Celsius to Fahrenheit conversion program.
+# This is a Celsius to Fahrenheit conversion program
